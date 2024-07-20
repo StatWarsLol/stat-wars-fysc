@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 50 Leaderboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Top 50 Subscribers Leaderboard</h1>
+    <div id="leaderboard">
+        <ul id="subscriber-list">
+            <!-- Subscribers will be dynamically added here -->
+        </ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
